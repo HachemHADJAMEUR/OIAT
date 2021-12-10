@@ -1,0 +1,14 @@
+{
+  "name": "cordova-app-OIAT",
+  "version": "6.0.1-dev",
+  "description": "This is the hello world app used by the `cordova create` command.",
+  "repository": "github.com/HachemHADJAMEUR/OIAT",
+  "bugs": "https://github.com/HachemHADJAMEUR/OIAT/issues",
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0"
+}
